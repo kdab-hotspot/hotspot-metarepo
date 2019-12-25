@@ -1,0 +1,21 @@
+[submodule "ThirdParty/hotspot"]
+	path = ThirdParty/hotspot
+	url = https://github.com/kdab-hotspot/hotspot.git
+[submodule "ThirdParty/zlib"]
+	path = ThirdParty/zlib
+	url = https://github.com/kdab-hotspot/zlib.git
+[submodule "ThirdParty/pcre2"]
+	path = ThirdParty/pcre2
+	url = https://github.com/kdab-hotspot/pcre2.git
+[submodule "ThirdParty/libpng"]
+	path = ThirdParty/libpng
+	url = https://github.com/kdab-hotspot/libpng.git
+[submodule "ThirdParty/freetype2"]
+	path = ThirdParty/freetype2
+	url = https://github.com/kdab-hotspot/freetype2.git
+[submodule "ThirdParty/qtbase"]
+	path = ThirdParty/qtbase
+	url = https://github.com/kdab-hotspot/qt6-cmake.git
+[submodule "ThirdParty/hotspot-perfparser"]
+	path = ThirdParty/hotspot-perfparser
+	url = https://github.com/kdab-hotspot/hotspot-perfparser.git
